@@ -21,3 +21,7 @@
 >What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 	By merging 2 branches we get a unified version of code which has features added in the branch & the master branch. This way we can add new features to our master branch while working on it in a seperate branch & later merging with master branch. We represent it in diagram like this because we are merging 2 branches thus adding line of codes from 1 branch files to other one. That's why at end we get only 1 commit that contains both the branch codes.
+
+>What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	Automatic merging is better in the sense that it can compare the commit line of codes with it previos version and according to that it crates a new commit. But somtimes there may be comflicting changes in the line of codes in 2 commits at that time we have to do manual merging of commits.
