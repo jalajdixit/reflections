@@ -13,3 +13,7 @@
 >What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 	Branches are useful when we want to experiment new features, after completing our demo basic code. We can also branch to change user language like spanish, italian,etc. Also when branched if we make some changes in master branch it wont affect the sub branch and vice versa. Branching helps keep new experimental changes seperate & thus we won't have to revert back to old version.
+
+>How do the diagrams help you visualize the branch structure?
+
+	Driagrams help us understand how git manages the commits histroy and what version control actually means. It also helps in understanding how to maintain branches and which branches may get lost if we checkout to master.
