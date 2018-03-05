@@ -9,3 +9,7 @@
 >How can you use the staging area to make sure you have one commit per logical change?
 
 	After making any changes to our file first we will add that file to staging area. We will compare the staging area to directory file and also with the latest commit in the repository. That way we can ensure that only important logical changes are commited.
+
+>What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	Branches are useful when we want to experiment new features, after completing our demo basic code. We can also branch to change user language like spanish, italian,etc. Also when branched if we make some changes in master branch it wont affect the sub branch and vice versa. Branching helps keep new experimental changes seperate & thus we won't have to revert back to old version.
