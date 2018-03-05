@@ -1,0 +1,27 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+    diff command shows the difference between two files at which line no. there is difference. This helps find the bug in the code easily.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+    In long terms when working on big projects with lots of code files, if we have entire history to different file versions we can easily detect any bugs and thus maintain previous versions.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+
+    Pros of creating a commit manually is that we can make it when ever we ffel like its important to maintain the verison. Also it saves lots of space because when the commits are created manually, even if very nominal changes are made whole file is duplicated.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+    Most programmers work with various differrent files for 1 projects each conatining seperate code for diffrent function. Thus it is important to maintain version controls of multiple files in a single commit.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    
+
+How might using version control make you more confident to make changes that could break something?
+
+    Having version control makes us more confident about making new changes in the code. Implementing new algorithms & ideas to perform certain tasks. Because we know that if we break something we can go back to previos version & not loose our entire data.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I want to setuf Git in my workspace to maintain code files of my projects & sometimes when i want to make some changes in my previous project code files i could easily do it without worrying about anything.
