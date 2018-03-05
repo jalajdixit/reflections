@@ -17,3 +17,7 @@
 >How do the diagrams help you visualize the branch structure?
 
 	Driagrams help us understand how git manages the commits histroy and what version control actually means. It also helps in understanding how to maintain branches and which branches may get lost if we checkout to master.
+
+>What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+	By merging 2 branches we get a unified version of code which has features added in the branch & the master branch. This way we can add new features to our master branch while working on it in a seperate branch & later merging with master branch. We represent it in diagram like this because we are merging 2 branches thus adding line of codes from 1 branch files to other one. That's why at end we get only 1 commit that contains both the branch codes.
